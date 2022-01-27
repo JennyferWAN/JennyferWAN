@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Jennyfer</h1>
+<h1 align="center">Hi there, I'm Jennyfer Wan 👋</h1>
 
 <h3 align="center">A passionate Data Scientist in learning</h3>
 
@@ -20,10 +20,10 @@ _______________________________________________________________________
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-    <a href="www.linkedin.com/in/jennyferwan/" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="linkedin" width="40" height="40"/> </a>
+    <a href="https://www.linkedin.com/in/jennyferwan/" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="linkedin" width="40" height="40"/> </a>
 </p>
 
-[![Linkedin Logo](https://img.shields.io/logo/-View&nbsp;profile&nbsp;on&nbsp;LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jennyferwan/)](https://www.linkedin.com/in/jennyferwan/)
+[![Linkedin Badge](https://img.shields.io/badge/-View&nbsp;profile&nbsp;on&nbsp;LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jennyferwan/)](https://www.linkedin.com/in/jennyferwan/)
 
 _______________________________________________________________________
 
