@@ -4,17 +4,17 @@
 
 _______________________________________________________________________
 
-- 🔭 I’m currently exploring **the fascinating world of Data Science**
-
-- 🌱 I’m currently learning **path of Data (Coursera, Udemy)**
-
-- 👯 I’m looking to collaborate on **Data Science projects (Kaggle)**
-
-- 🤝 I’m looking for **jobs opportunities**
+- 👯 I’m a **Data Scientist from Jedha**
 
 - 😄 Pronouns: She/Her
 
-- ⚡ Fun fact **My first undergraduation was in luxury business, and I'm a currently a cash and carry director !**
+- 🔭 I’m currently exploring **the fascinating world of Data Science**
+
+- 🌱 I keep learning **Data from Coursera or Udemy**
+
+- 🤝 I’m looking for **jobs opportunities**
+
+- ⚡ Fun fact **My first degree was in luxury business, and I'm a currently retail director !**
 
 _______________________________________________________________________
 
