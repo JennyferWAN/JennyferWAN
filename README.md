@@ -2,6 +2,18 @@
 
 <h3 align="center">A passionate Data Scientist in learning</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=iampawan&label=Views&color=blue&style=plastic" alt="iampawan" /> </p>
+
+<a href="https://linkedin.com/in/imthepk">
+  <img align="left" alt="Jennyfer's Linkdein" width="22px" src="www.linkedin.com/in/jennyferwan" />
+</a>
+<a href="https://github.com/iampawan">
+  <img align="left" alt="Jennyfer's Github" width="22px" src="https://github.com/JennyferWAN/JennyferWAN" />
+</a>
+
+<br/>
+<br/>
+
 _______________________________________________________________________
 
 - 🔭 I’m currently exploring **the fascinating world of Data Science**
