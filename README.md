@@ -20,7 +20,8 @@ _______________________________________________________________________
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/jennyferwan/" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="linkedin" width="40" height="40"/> </a> <p align="right"> <a href="https://https://github.com/JennyferWAN/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/2048px-Octicons-mark-github.svg.png" alt="github" width="40" height="40"/> </a> </p> </p>
+<a href="https://www.linkedin.com/in/jennyferwan/" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="linkedin" width="40" height="40"/> </a> 
+<a href="https://https://github.com/JennyferWAN/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/2048px-Octicons-mark-github.svg.png" alt="github" width="40" height="40"/> </a> </p>
 
 _______________________________________________________________________
 
