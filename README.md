@@ -43,6 +43,10 @@ _______________________________________________________________________
   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
 
+<a href="https://github.com/iampawan/FlutterExampleApps">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=iampawan&repo=FlutterExampleApps&theme=light" />
+
+</a>
 
 <!---
 JennyferWAN/JennyferWAN is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
