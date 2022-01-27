@@ -20,11 +20,9 @@ _______________________________________________________________________
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-    <a href="https://www.linkedin.com/in/jennyferwan/" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="linkedin" width="40" height="40"/> </a>
-</p>
-
-[![Linkedin Badge](https://img.shields.io/badge/-View&nbsp;profile&nbsp;on&nbsp;LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jennyferwan/)](https://www.linkedin.com/in/jennyferwan/)
-
+<a href="https://www.linkedin.com/in/jennyferwan/" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="linkedin" width="40" height="40"/> </a>
+<p align="right"> <a href="https://https://github.com/JennyferWAN/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/2048px-Octicons-mark-github.svg.png" alt="github" width="40" height="40"/> </a>
+</p> </p>
 _______________________________________________________________________
 
 <h3 align="left">Languages and Tools currently learning :</h3>
