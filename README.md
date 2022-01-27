@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jennyfer</h1>
-<h3 align="center">A passionate Data Scientist from France</h3>
+<h3 align="center">A passionate Data Scientist in learning</h3>
 
 - 🔭 I’m currently exploring **the fascinating world of Data Science**
 
@@ -9,11 +9,13 @@
 
 - 🤝 I’m looking for **jobs opportunities**
 
+- 😄 Pronouns: She/Her
+
 - ⚡ Fun fact **My first undergraduation was in luxury business, and I'm a currently a cash and carry director !**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/jennyfer wan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jennyfer wan" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/jennyferwan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jennyfer wan" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
