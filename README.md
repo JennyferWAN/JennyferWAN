@@ -4,7 +4,7 @@
 
 _______________________________________________________________________
 
-- 👯 I’m a **Data Scientist from Jedha**
+- 👯 I’m a **Data Scientist from [Jedha](https://https://www.jedha.co/)**
 
 - 😄 Pronouns: She/Her
 
