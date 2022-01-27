@@ -6,7 +6,7 @@ _______________________________________________________________________
 
 - 🔭 I’m currently exploring **the fascinating world of Data Science**
 
-- 🌱 I’m currently learning **path of Data Science (Coursera, Udemy)**
+- 🌱 I’m currently learning **path of Data (Coursera, Udemy)**
 
 - 👯 I’m looking to collaborate on **Data Science projects (Kaggle)**
 
