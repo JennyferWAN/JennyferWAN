@@ -10,7 +10,7 @@ _______________________________________________________________________
 
 - 🔭 I’m currently exploring **the fascinating world of Data Science**
 
-- 🌱 I keep learning **Data from Coursera or Udemy**
+- 🌱 I keep learning **Data on Coursera or Udemy**
 
 - 🤝 I’m looking for **jobs opportunities**
 
