@@ -1,7 +1,11 @@
+
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+
 <h1 align="center">Hi there, I'm Jennyfer Wan 👋</h1>
 
-<h3 align="center">A passionate Data Scientist in learning</h3>
-
+<h3 align="center">A passionate Data Scientist in learning</h3> 
+<h4 align="center">𝓯𝓪𝓼𝓬𝓲𝓷𝓪𝓽𝓮𝓭  𝓽𝓸𝔀𝓪𝓻𝓭𝓼  𝓓𝓪𝓽𝓪𝓢𝓬𝓲𝓮𝓷𝓬𝓮,  𝓐𝓘  𝓪𝓷𝓭  𝓜𝓛</h4>   
+     
 _______________________________________________________________________
 
 - 👯 I’m a **Data Scientist from [Jedha](https://https://www.jedha.co/)**
@@ -10,11 +14,12 @@ _______________________________________________________________________
 
 - 🔭 I’m currently exploring **the fascinating world of Data Science**
 
-- 🌱 I keep learning **Data on Coursera or Udemy**
+- 🌱 I keep learning **Data on Coursera or Udemy** by working on projects
 
 - 🤝 I’m looking for **jobs opportunities**
 
 - ⚡ Fun fact **My first degree was in luxury business, and I'm a currently retail director !**
+
 
 _______________________________________________________________________
 
@@ -57,17 +62,26 @@ _______________________________________________________________________
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
 <a href="https://gitlab.com/gitlab-org/gitlab" target="_blank" rel="noreferrer"> <img src="https://about.gitlab.com/images/press/logo/jpg/gitlab-icon-rgb.jpg" alt="gitlab" width="40" height="40"/> </a> 
  </p>
+    
 _______________________________________________________________________
-
+    
 ![Github stats](https://github-readme-stats.vercel.app/api?username=JennyferWAN)
 
 _______________________________________________________________________
-
+    
 ![Github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=JennyferWAN)
 
 _______________________________________________________________________
 
-<br><p align="right">![](https://visitor-badge.laobi.icu/badge?page_id=JennyferWAN.JennyferWAN)<br>
+<img align='left' src="https://media4.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" width="130">
+
+<p align="center"><img src="https://github.com/sakshiisaxena/sakshiisaxena/blob/output/github-contribution-grid-snake.svg" alt="snake"></center></p>
+
+<br><<img align='right' src="https://media0.giphy.com/media/kaTEw0JKFNTNa4485Y/giphy.webp" width="130"></br>
+    
+<br><p align="left">![](https://visitor-badge.laobi.icu/badge?page_id=JennyferWAN.JennyferWAN)
+<img src="https://komarev.com/ghpvc/?username=JennyferWAN&label=Profile%20views&color=0e75b6&style=flat-square" alt="JennyferWAN" />
+<img src="https://img.shields.io/github/followers/JennyferWAN?style=social" alt="JennyferWAN" /> </p> <br>
 
 <!---
 JennyferWAN/JennyferWAN is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
