@@ -77,7 +77,7 @@ _______________________________________________________________________
 
 <p align="center"><img src="https://github.com/sakshiisaxena/sakshiisaxena/blob/output/github-contribution-grid-snake.svg" alt="snake"></center></p>
 
-<br><<img align='right' src="https://media0.giphy.com/media/kaTEw0JKFNTNa4485Y/giphy.webp" width="130"></br>
+<br><img align='right' src="https://media0.giphy.com/media/kaTEw0JKFNTNa4485Y/giphy.webp" width="130"></br>
     
 <br><p align="left">![](https://visitor-badge.laobi.icu/badge?page_id=JennyferWAN.JennyferWAN)
 <img src="https://komarev.com/ghpvc/?username=JennyferWAN&label=Profile%20views&color=0e75b6&style=flat-square" alt="JennyferWAN" />
