@@ -18,8 +18,7 @@ _______________________________________________________________________
 
 - 🤝 I’m looking for **jobs opportunities**
 
-- ⚡ Fun fact **My first degree was in luxury business, and I'm a currently retail director !**
-
+- ⚡ Fun fact:　Never forget that　<img src="http://assets.stickpng.com/images/580b57fcd9996e24bc43c51f.png" width="80">　is **your best friend**　　　　<img align="center" src="https://media4.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" width="60">
 
 _______________________________________________________________________
 
@@ -30,7 +29,7 @@ _______________________________________________________________________
 
 _______________________________________________________________________
 
-<h3 align="left">Languages and Tools currently learning :</h3>
+<h3 align="left">Languages and frameworks I have worked with: :</h3>
 
 <p align="left"> 
 
@@ -72,16 +71,13 @@ _______________________________________________________________________
 ![Github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=JennyferWAN)
 
 _______________________________________________________________________
-
-<img align='left' src="https://media4.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" width="130">
-
-<p align="center"><img src="https://github.com/sakshiisaxena/sakshiisaxena/blob/output/github-contribution-grid-snake.svg" alt="snake"></center></p>
-
-<br><img align='right' src="https://media0.giphy.com/media/kaTEw0JKFNTNa4485Y/giphy.webp" width="130"></br>
-    
 <br><p align="left">![](https://visitor-badge.laobi.icu/badge?page_id=JennyferWAN.JennyferWAN)
 <img src="https://komarev.com/ghpvc/?username=JennyferWAN&label=Profile%20views&color=0e75b6&style=flat-square" alt="JennyferWAN" />
 <img src="https://img.shields.io/github/followers/JennyferWAN?style=social" alt="JennyferWAN" /> </p> <br>
+
+<br><img align='right' src="https://media0.giphy.com/media/kaTEw0JKFNTNa4485Y/giphy.webp" width="130"></br>
+    
+
 
 <!---
 JennyferWAN/JennyferWAN is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
