@@ -16,7 +16,7 @@ _______________________________________________________________________
 - 🔭 I’m currently exploring **the fascinating world of Data Science**
 
 - 🌱 I keep learning **Data on Coursera or Udemy** by working on projects     
-   ➜ (Checked my certificates : https://www.credly.com/users/jennyfer-wan/badges#)
+   ➜ (Check my certificates : https://www.credly.com/users/jennyfer-wan/badges#)
 
 - 🤝 I’m looking for **jobs opportunities**
 
