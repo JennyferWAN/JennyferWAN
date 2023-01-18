@@ -69,9 +69,11 @@ _______________________________________________________________________
 <h3 align = 'center'>My GitHub Stats:</h3>
 
 <br><p align="left">
-     ![Github stats](https://github-readme-stats.vercel.app/api?username=JennyferWAN)
-     　　　![Github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=JennyferWAN)
+     ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JennyferWAN&show_icons=true&theme=buefy)
+     　　　[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JennyferWAN&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 </p></br>
+
+
 
 _______________________________________________________________________
 <br><p align="left">![](https://visitor-badge.laobi.icu/badge?page_id=JennyferWAN.JennyferWAN)
