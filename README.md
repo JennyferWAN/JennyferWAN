@@ -69,8 +69,8 @@ _______________________________________________________________________
 <h3 align = 'center'>My GitHub Stats:</h3>
 
 <br><p align="left">
-     ![Github stats](https://github-readme-stats-ruby-one.vercel.app/api?username=JennyferWAN)
-     　　　![Github stats](https://github-readme-stats-ruby-one.vercel.app/api/top-langs/?username=JennyferWAN)
+     ![Github stats](https://github-readme-stats.vercel.app/api?username=JennyferWAN)
+     　　　![Github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=JennyferWAN)
 </p></br>
 
 _______________________________________________________________________
